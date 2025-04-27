@@ -1,10 +1,10 @@
 # Site settings
 
 # NB! Set your site's url, otherwise nothing will work
-url: "https://coluccigiovanni.com
+url: "https://le4ker.github.io/personal-jekyll-theme"
 
 # Google tracking id
-google-tracking-id: "G-W2211M8ENL"
+google-tracking-id: "UA-XXXXXXXX-X"
 
 #############
 # HTML Head #
